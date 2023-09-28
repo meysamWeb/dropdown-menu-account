@@ -8,6 +8,7 @@ The <a href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css">r
 <p align="center">
 <img src="assets/img/dropdown-menu-account.PNG" alt="dropdown menu account">
 </p>
+
 * Display in hover mode
 <p align="center">
 <img src="assets/img/dropdown-menu-account-hover.PNG" alt="dropdown menu account">
